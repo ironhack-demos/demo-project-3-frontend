@@ -3,7 +3,7 @@ import axios from "axios";
 import AddProject from "../components/AddProject";
 import ProjectCard from "../components/ProjectCard";
 
-const API_URL = "http://localhost:5005";
+const API_URL = "https://my-cool-project-3-backend.adaptable.app";
 
 function ProjectListPage() {
   const [projects, setProjects] = useState([]);

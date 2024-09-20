@@ -5,7 +5,7 @@ import AddTask from "../components/AddTask";
 
 import TaskCard from "../components/TaskCard";
 
-const API_URL = "http://localhost:5005";
+const API_URL = "https://my-cool-project-3-backend.adaptable.app";
 
 
 function ProjectDetailsPage (props) {
